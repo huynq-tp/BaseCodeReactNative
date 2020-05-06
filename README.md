@@ -19,6 +19,10 @@ Một số câu lệnh chạy chủ yếu đã thế vào *package.json* cho d�
 
 ### Eslint
 
+Install ESlint extensions for VS Code
+
+Install EditorConfig for VS Code config extenions
+
 For more information, see <https://eslint.org/>.
 
 ```JS
