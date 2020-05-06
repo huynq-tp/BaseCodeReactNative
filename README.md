@@ -53,4 +53,8 @@ Ví dụ: khi import 1 file "../../../component/index.js" =>> import "componet/i
 
 ## Font chữ cho project được lưu trong thư mục assets/fonts
 
+Cho File Font vào assets/fonts sau đó chạy câu lệnh sau
+
+`yarn react-native link`
+
 ## Công cụ Test
