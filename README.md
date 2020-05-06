@@ -6,11 +6,11 @@ BaseCode xây dựng cho mọi app build bằng react native hệ điều hành 
 
 ### Android
 
-`yarn react-native run-android`
-
 `mkdir android/app/src/main/assets`
 
-`mkdir react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
+`yarn react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
+
+`yarn react-native run-android`
 
 `yarn react-native start` =>> bắt đầu code ( hot reloading )
 
